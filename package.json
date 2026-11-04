@@ -1,0 +1,22 @@
+{
+  "name": "devops-exp7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2025csdaneshwarirajuolekarb-dev/devops-exp7.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/2025csdaneshwarirajuolekarb-dev/devops-exp7/issues"
+  },
+  "homepage": "https://github.com/2025csdaneshwarirajuolekarb-dev/devops-exp7#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
